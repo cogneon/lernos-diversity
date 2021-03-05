@@ -5,7 +5,7 @@ REM Required Software
 REM See lernOS Core Repository
 
 REM Variables
-set filename="lernOS-Leitfaden-schreiben-Guide-de"
+set filename="LernOS-Diversity-Inclusion"
 set chapters=./src/index.md ./src/1-Grundlagen.md ./src/2-Lernpfad.md ./src/3-Anhang.md
 
 REM Delete Old Versions
