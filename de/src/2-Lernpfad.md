@@ -360,8 +360,6 @@ im Zusammenhang stehen.
 >
 > 3\. Brauche ich noch etwas aus der Runde bis zum nächsten Termin?
 
-## 
-
 ## Woche 5: Wie divers ist dein Umfeld wirklich?
 
 Du hast in der vergangenen Woche viel recherchiert und zusammengetragen,
