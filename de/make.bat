@@ -31,8 +31,8 @@ pandoc metadata.yaml --from markdown --resource-path="./src" --template lernOS -
 REM Create eBook Versions (epub, mobi)
 echo Creating eBook versions ...
 magick -density 300 %filename%.pdf[0] src/images/ebook-cover.jpg
-magick mogrify -size 2500x2500 -resize 2500x2500 src/images/ebook-cover.jpg
-magick mogrify -crop 1563x2500+102+0 src/images/ebook-cover.jpg
+magick mogrify -size 2500X2500 -resize 2500X2500 src/images/ebook-cover.jpg
+magick mogrify -crop 1563X2500+102+0 src/images/ebook-cover.jpg
 pandoc metadata.yaml -s --resource-path="./src" --epub-cover-image=src/images/ebook-cover.jpg %chapters% -o %filename%.epub
 ebook-convert %filename%.epub %filename%.mobi
 
