@@ -61,8 +61,6 @@ vorgehen? „Alles auf einmal und dann perfekt" (mit Überforderung/Frust)
 oder lieber doch „practice makes progress" (Brandy Agerbeck) -- Übung
 bringt Fortschritte (und Spaß).
 
-## 
-
 ## Woche 0: Koffer packen / Komm in Reisestimmung / Deine Motivation / Deinen Sprint planen 
 
 **Es geht los!** Deine lernOS-Diversity & Inclusion-Reise beginnt.
