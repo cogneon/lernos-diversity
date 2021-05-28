@@ -26,7 +26,7 @@ mkdocs build
 
 REM Create PDF Version (pdf)
 echo Creating PDF version ...
-pandoc metadata.yaml --from markdown --resource-path="./src" --template lernOS --number-sections -V lang=de-de %chapters% -o %filename%.pdf 
+pandoc metadata.yaml --from markdown --resource-path="./src" --template lernOS --number-sections -V lang=en-en %chapters% -o %filename%.pdf 
 
 REM Create eBook Versions (epub, mobi)
 echo Creating eBook versions ...
