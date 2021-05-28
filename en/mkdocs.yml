@@ -1,0 +1,36 @@
+site_name: lernOS Diversity & Inclusion
+site_url: https://cogneon.github.io/
+
+docs_dir: src
+
+site_dir: ../docs/de
+
+nav:
+    - About lernOS: index.md
+    - Basics: 1-basics.md
+    - Learning path: 2-learning-path.md
+    - Appendix: 3-appendix.md
+
+theme:
+    name: 'material'
+    palette:
+        primary: 'deep orange'
+        accent: 'deep orange'
+    language: de
+
+repo_name: 'cogneon/lernos-template'
+repo_url: 'https://github.com/cogneon/lernos-diversity'
+
+google_analytics:
+  - 'UA-156969141-1'
+  - 'auto'
+
+extra:
+#    social:
+#        - type: 'twitter'
+#          link: 'https://twitter.com/lern_os'
+#        - type: 'linkedin'
+#          link: 'https://www.linkedin.com/showcase/lern-os'
+#        - type: 'github'
+#          link: 'https://github.com/cogneon'
+    disqus: lernos
