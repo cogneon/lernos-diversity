@@ -3,7 +3,7 @@ site_url: https://cogneon.github.io/
 
 docs_dir: src
 
-site_dir: ../docs/de
+site_dir: ../docs/en
 
 nav:
     - About lernOS: index.md
